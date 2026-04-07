@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DBConnection
+comment1.params=
+comment1.target=java.sql.Connection\ connect()
+comment2.params=conn
+comment2.target=void\ createTables(java.sql.Connection)
+numComments=3
